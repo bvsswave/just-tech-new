@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS library_db;
-CREATE DATABASE library_db;
+DROP DATABASE IF EXISTS just_tech_news.db;
+CREATE DATABASE just_tech_news.db;
